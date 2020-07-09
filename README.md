@@ -1,5 +1,5 @@
 
-# Currency Converte React JS
+# Currency Converter React JS
 
 ![](Print.png)
 
